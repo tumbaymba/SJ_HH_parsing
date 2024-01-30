@@ -1,0 +1,82 @@
+{
+  "HH.ru": [
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 91664414,
+      "title": "Backend разработчик Python",
+      "url": "https://hh.ru/vacancy/91664414",
+      "salary_from": 80000,
+      "salary_to": 180000,
+      "currency": "RUR",
+      "description": "Глубокие знания и опыт работы с технологиями из нашего стека. (<highlighttext>Python</highlighttext> 3.11, FastApi, Celery, Asyncio, Aiohttp, Pytest. Docker, RabbitMQ). ",
+      "avg_salary": 180000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 91620172,
+      "title": "Backend-разработчик Python",
+      "url": "https://hh.ru/vacancy/91620172",
+      "salary_from": null,
+      "salary_to": 160000,
+      "currency": "RUR",
+      "description": "Коммерческий опыт программирования на <highlighttext>Python</highlighttext> от 2 лет. Опыт работы с Django. Опыт работы с облачными сервисами(AWS, Google, Yandex...",
+      "avg_salary": 160000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 92362909,
+      "title": "Python разработчик (Middle)",
+      "url": "https://hh.ru/vacancy/92362909",
+      "salary_from": 140000,
+      "salary_to": null,
+      "currency": "RUR",
+      "description": "Опыт коммерческой разработки от года. Отличное знание <highlighttext>python</highlighttext>. Опыт разработки на одном из фреймворков: Django, Fastapi. Умение писать асинхронный код. ",
+      "avg_salary": 140000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 92278926,
+      "title": "Аналитик со знанием Python",
+      "url": "https://hh.ru/vacancy/92278926",
+      "salary_from": 130000,
+      "salary_to": null,
+      "currency": "RUR",
+      "description": "Хорошо разбирается в <highlighttext>python</highlighttext> и имеет опыт настройки парсингов, настройки обмена данными по API с разными системами. Имеет опыт работы...",
+      "avg_salary": 130000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 92292859,
+      "title": "Python Backend Developer",
+      "url": "https://hh.ru/vacancy/92292859",
+      "salary_from": 120000,
+      "salary_to": null,
+      "currency": "RUR",
+      "description": "Опыт написания кода на Django/Fast API от 2х лет. Опыт работы с микросервисами. Умение писать юнит-тесты (pytest...",
+      "avg_salary": 120000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 92048326,
+      "title": "Программист Python",
+      "url": "https://hh.ru/vacancy/92048326",
+      "salary_from": 100000,
+      "salary_to": 120000,
+      "currency": "RUR",
+      "description": "Владение <highlighttext>Python</highlighttext>, Flask, Flask Admin, SQLAlchemy, Swagger, Django.",
+      "avg_salary": 120000
+    },
+    {
+      "platform": "HH.ru",
+      "vacancy_id": 92111342,
+      "title": "Python разработчик",
+      "url": "https://hh.ru/vacancy/92111342",
+      "salary_from": null,
+      "salary_to": 180000,
+      "currency": "RUR",
+      "description": "JavaScript, jQuery. HTML, Bootstrap, CSS. MSSQL, MySQL/MariaDB, PostgreSQL, SQLite, MongoDB. Redis, Elasticsearch, GitLab CI/CD. Linux Server, Windows Server...",
+      "avg_salary": 180000
+    }
+  ],
+  "SuperJob.ru": []
+}
